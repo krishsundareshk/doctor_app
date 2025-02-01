@@ -182,7 +182,7 @@ class _DoctorPageState extends State<DoctorPage> {
       'prevRecord': 'Anemia'
     },
   ];
-/*Doctor*/
+/*sdfsfaerbk*/
   void _handleCheckboxChanged(int index, bool? value) {
     setState(() {
       _checkedPatients[index] = value ?? false;
